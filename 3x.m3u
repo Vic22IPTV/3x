@@ -23,8 +23,12 @@ https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-chno="45.3" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/633-320x180-000000.jpg" group-title="+18 🔞",Miamitv Latino
 https://59ec5453559f0.streamlock.net/Latino/smil:VIVALIVE/chunklist_w1409745456_b1896000.m3u8
 
-#EXTINF:-1 tvg-chno="45.4" tvg-id="" tvg-logo="https://oklivetv.com/wp-content/uploads/media/e29188d7ecb78dbbbbbc69dfe696c0bb.jpeg" group-title="+18 🔞",darcizzle
-https://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 tvg-chno="45.4" tvg-id="" tvg-logo="" group-title="+18 🔞", Miami Swim Bikini
+https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="45.5" tvg-id="" tvg-logo="" group-title="+18 🔞", Lingerie Club
+https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-chno="46" tvg-id="" tvg-logo="https://i.postimg.cc/7hSt4P9C/vis.jpg" group-title="+18 🔞",Visit-X TV (NL)
@@ -38,3 +42,4 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="46.3" tvg-id="Hustler TV" group-title="+18 🔞" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Hustler%20TV%20HD.png",Hustler 
 https://streamer1.nexgen.bz/HUSTLER_TV/index.m3u8
+
