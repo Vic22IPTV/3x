@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE,https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz"
 
 #EXTINF: -1 tvg-chno="45" tvg-id="kino18plusint-tviksel" tvg-logo="https://iptvx.one/picons/kino18plusint-tviksel.png" group-title="+18 🔞", Кино 18+ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
@@ -15,13 +15,11 @@ https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
 
 #EXTINF:-1 tvg-chno="45.2" tvg-id="" tvg-logo="https://www.coolstreaming.us/img/ch/image5883637955.webp" group-title="+18 🔞", Jenny Live HD
-https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="45.3" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3467-294x165-FFFFFF.jpg" group-title="+18 🔞",Miamitv music
-https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="45.3" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/633-320x180-000000.jpg" group-title="+18 🔞",Miamitv Latino
-https://59ec5453559f0.streamlock.net/Latino/smil:VIVALIVE/chunklist_w1409745456_b1896000.m3u8
+	
 
 #EXTINF:-1 tvg-chno="45.4" tvg-id="" tvg-logo="" group-title="+18 🔞", Miami Swim Bikini
 https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
@@ -29,10 +27,14 @@ https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="45.5" tvg-id="" tvg-logo="" group-title="+18 🔞", Lingerie Club
 https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-chno="45.6" tvg-id="" tvg-logo="" group-title="+18 🔞", L Club
+https://rpn3.bozztv.com/dvrfl07/ushba-t2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="45.7" tvg-id="" tvg-logo="" group-title="+18 🔞", Li Club
+https://fl1004.bozztv.com/ushba-m3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="45.8" tvg-id="" tvg-logo="" group-title="+18 🔞", Lin Club
+https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-chno="46" tvg-id="" tvg-logo="https://i.postimg.cc/7hSt4P9C/vis.jpg" group-title="+18 🔞",Visit-X TV (NL)
-https://stream.visit-x.tv/vxtv/ngrp:live_all/chunklist_w155297314_b3203072.m3u8
 
 #EXTINF:-1 tvg-chno="46.1" tvg-id="exxxotica" group-title="+18 🔞" tvg-logo="https://iptvx.one/picons/exxxotica.png", Exxxotica HD
 http://31.148.48.15:80/O-la-la/index.m3u8?token=test
@@ -42,4 +44,100 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="46.3" tvg-id="Hustler TV" group-title="+18 🔞" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Hustler%20TV%20HD.png",Hustler 
 https://streamer1.nexgen.bz/HUSTLER_TV/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="47" tvg-id="babes-tv" tvg-logo="https://iptvx.one/picons/babes-tv.png" group-title="🔥+18 🔞" , Babes TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_babes/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-chno="47.1" tvg-id="digital-desire"" tvg-logo="https://iptvx.one/picons/digital-desire.png", group-title="🔥+18 🔞" Desire HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_desire/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-chno="47.2" tvg-id="brazzers-tv-europe" tvg-logo="https://iptvx.one/picons/brazzers.png" group-title="🔥+18 🔞",Brazzers TV Europe 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_brazzers_europe/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-chno="47.3" tvg-id="dorcel"  tvg-logo="https://www.antik.sk/assets/img/channels/ac6cb6bd0ed031a2290db5ffedce85e1.svg" group-title="🔥+18 🔞",Dorcel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_dorcel/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-chno="47.4" id="dorcel-xxx" tvg-logo="https://epgx.site/p/dorcel.png" group-title="🔥+18 🔞",Dorcel XXX 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_dorcel_xxx/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-chno="47.5"  tvg-id="Dorcel.TV.HD.sk" tvg-logo="https://epgx.site/p/dorcel.png" group-title="🔥+18 🔞",Dorcel TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_dorcel_tv/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-chno="47.6" tvg-id="leo-tv-xxx" tvg-logo="https://epg.iptvx.one/picons/leo-tv-xxx.png" group-title="🔥+18 🔞",Leo TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_leo_tv/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-chno="47.7" tvg-id="Leo.TV.Gold.HD.sk" tvg-logo="https://www.antik.sk/assets/img/channels/a2d9eba173d8e33080f7b864407f6a70.svg" group-title="🔥+18 🔞",Leo TV Gold
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_leo_gold/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-chno="47.8"  tvg-id="extasytv" tvg-logo="https://epg.iptvx.one/picons/extasytv.png" group-title="🔥+18 🔞", Extasy 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_extasy/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-chno="47.9" tvg-id="passionxxx" tvg-logo="https://epg.iptvx.one/picons/passionxxx.png" group-title="🔥+18 🔞" ,Passion XXX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_passion_xxx/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-chno="47.10" tvg-id="Dusk.TV.sk" tvg-logo="https://www.antik.sk/assets/img/channels/42cdc67fd19238d4fb25de8e998af9ff.svg" group-title="🔥+18 🔞"Dusk! TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_dusk/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-chno="47.11" tvg-id="eroxxxhd"  tvg-logo="https://epg.iptvx.one/picons/eroxxxhd.png" group-title="🔥+18 🔞",Eroxxx HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_eroxxx/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-chno="47.12" tvg-id="erox" tvg-logo="https://epg.iptvx.one/picons/erox.png" group-title="🔥+18 🔞",Erox HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_erox/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-chno="47.13" tvg-id="reality-kings" tvg-logo="https://epg.iptvx.one/picons/reality-kings.png" group-title="🔥+18 🔞" ,Reality Kings TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_reality_tv/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-chno="47.14" tvg-id="" tvg-logo="https://www.antik.sk/assets/img/channels/ac6cb6bd0ed031a2290db5ffedce85e1.svg" group-title="🔥+18 🔞",Pure Babes
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_pure_babes/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-chno="47.15" tvg-id="" tvg-logo="https://www.antik.sk/assets/img/channels/3f45e9a30d1d9247ce02215bd68982aa.svg" group-title="🔥+18 🔞" ,True Amateurs
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash4.antik.sk/stream/hisi_true_amateurs/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-chno="47.16" tvg-id="" tvg-logo="https://www.antik.sk/assets/img/channels/8a1ddb6ce48947440bb001d319ec66ab.svg" group-title="🔥+18 🔞" ,Bang U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_bang_u/playlist_cbcs.mpd
+
+
+
+
+
+
+
+
+
+
 
