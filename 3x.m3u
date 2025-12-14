@@ -62,84 +62,148 @@ https://dash2.antik.sk/stream/hisi_babes/playlist_cbcs.mpd
 
 
 #EXTINF:-1 tvg-chno="47.1" tvg-id="digital-desire"" tvg-logo="https://iptvx.one/picons/digital-desire.png" group-title="🔥+18 🔞" Desire HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash3.antik.sk/stream/hisi_desire/playlist_cbcs.mpd
 
 
 #EXTINF:-1 tvg-chno="47.2" tvg-id="brazzers-tv-europe" tvg-logo="https://iptvx.one/picons/brazzers.png" group-title="🔥+18 🔞",Brazzers TV Europe 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash3.antik.sk/stream/hisi_brazzers_europe/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-chno="47.3" tvg-id="dorcel"  tvg-logo="https://www.antik.sk/assets/img/channels/ac6cb6bd0ed031a2290db5ffedce85e1.svg" group-title="🔥+18 🔞",Dorcel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTINF:-1 tvg-chno="47.3" tvg-id="dorcel"  tvg-logo="https://epg.iptvx.one/picons/dorcel.png" group-title="🔥+18 🔞",Dorcel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash4.antik.sk/stream/hisi_dorcel/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-chno="47.4" id="dorcel-xxx" tvg-logo="https://epgx.site/p/dorcel.png" group-title="🔥+18 🔞",Dorcel XXX 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTINF:-1 tvg-chno="47.4" id="dorcel-xxx" tvg-logo="https://epg.iptvx.one/picons/dorcel-xxx.png" group-title="🔥+18 🔞",Dorcel XXX 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash2.antik.sk/stream/hisi_dorcel_xxx/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-chno="47.5"  tvg-id="Dorcel.TV.HD.sk" tvg-logo="https://epgx.site/p/dorcel.png" group-title="🔥+18 🔞",Dorcel TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTINF:-1 tvg-chno="47.5"  tvg-id="Dorcel.TV.HD.sk" tvg-logo="https://epg.iptvx.one/picons/dorcel.png" group-title="🔥+18 🔞",Dorcel TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash2.antik.sk/stream/hisi_dorcel_tv/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-chno="47.6" tvg-id="leo-tv-xxx" tvg-logo="https://epg.iptvx.one/picons/leo-tv-xxx.png" group-title="🔥+18 🔞",Leo TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash3.antik.sk/stream/hisi_leo_tv/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-chno="47.7" tvg-id="Leo.TV.Gold.HD.sk" tvg-logo="https://www.antik.sk/assets/img/channels/a2d9eba173d8e33080f7b864407f6a70.svg" group-title="🔥+18 🔞",Leo TV Gold
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash3.antik.sk/stream/hisi_leo_gold/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-chno="47.8"  tvg-id="extasytv" tvg-logo="https://epg.iptvx.one/picons/extasytv.png" group-title="🔥+18 🔞", Extasy 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash4.antik.sk/stream/hisi_extasy/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-chno="47.9" tvg-id="passionxxx" tvg-logo="https://epg.iptvx.one/picons/passionxxx.png" group-title="🔥+18 🔞" ,Passion XXX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash3.antik.sk/stream/hisi_passion_xxx/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-chno="47.10" tvg-id="Dusk.TV.sk" tvg-logo="https://www.antik.sk/assets/img/channels/42cdc67fd19238d4fb25de8e998af9ff.svg" group-title="🔥+18 🔞"Dusk! TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash4.antik.sk/stream/hisi_dusk/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-chno="47.11" tvg-id="eroxxxhd"  tvg-logo="https://epg.iptvx.one/picons/eroxxxhd.png" group-title="🔥+18 🔞",Eroxxx HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash3.antik.sk/stream/hisi_eroxxx/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-chno="47.12" tvg-id="erox" tvg-logo="https://epg.iptvx.one/picons/erox.png" group-title="🔥+18 🔞",Erox HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash3.antik.sk/stream/hisi_erox/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-chno="47.13" tvg-id="reality-kings" tvg-logo="https://epg.iptvx.one/picons/reality-kings.png" group-title="🔥+18 🔞" ,Reality Kings TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash3.antik.sk/stream/hisi_reality_tv/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-chno="47.14" tvg-id="" tvg-logo="https://www.antik.sk/assets/img/channels/ac6cb6bd0ed031a2290db5ffedce85e1.svg" group-title="🔥+18 🔞",Pure Babes
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash3.antik.sk/stream/hisi_pure_babes/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-chno="47.15" tvg-id="" tvg-logo="https://www.antik.sk/assets/img/channels/3f45e9a30d1d9247ce02215bd68982aa.svg" group-title="🔥+18 🔞" ,True Amateurs
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash4.antik.sk/stream/hisi_true_amateurs/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-chno="47.16" tvg-id="" tvg-logo="https://www.antik.sk/assets/img/channels/8a1ddb6ce48947440bb001d319ec66ab.svg" group-title="🔥+18 🔞" ,Bang U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash2.antik.sk/stream/hisi_bang_u/playlist_cbcs.mpd
 
 
