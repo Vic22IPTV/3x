@@ -45,20 +45,27 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-chno="46.3" tvg-id="Hustler TV" group-title="+18 🔞" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Hustler%20TV%20HD.png",Hustler 
 https://streamer1.nexgen.bz/HUSTLER_TV/index.m3u8
 
+#EXTINF:-1 tvg-chno="46.4" tvg-id="blue-hustler-24" group-title="+18 🔞" tvg-logo="https://epg.iptvx.one/picons/blue-hustler.png",Blue Hustler 24 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54393232379c4a57898a8d4d12b6695c:2305a3f727638465116400f7c422af87
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560601/index.mpd
+
 
 #EXTINF:-1 tvg-chno="47" tvg-id="babes-tv" tvg-logo="https://iptvx.one/picons/babes-tv.png" group-title="🔥+18 🔞" , Babes TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash2.antik.sk/stream/hisi_babes/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-chno="47.1" tvg-id="digital-desire"" tvg-logo="https://iptvx.one/picons/digital-desire.png", group-title="🔥+18 🔞" Desire HD
+
+#EXTINF:-1 tvg-chno="47.1" tvg-id="digital-desire"" tvg-logo="https://iptvx.one/picons/digital-desire.png" group-title="🔥+18 🔞" Desire HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash3.antik.sk/stream/hisi_desire/playlist_cbcs.mpd
+
 
 #EXTINF:-1 tvg-chno="47.2" tvg-id="brazzers-tv-europe" tvg-logo="https://iptvx.one/picons/brazzers.png" group-title="🔥+18 🔞",Brazzers TV Europe 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
