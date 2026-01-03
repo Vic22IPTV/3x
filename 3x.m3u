@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTM3U url-tvg="https://iptvx.one/EPG_LITE,https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE,https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz"
 
 #EXTINF: -1 tvg-chno="45" tvg-id="kino18plusint-tviksel" tvg-logo="https://iptvx.one/picons/kino18plusint-tviksel.png" group-title="+18 🔞", Кино 18+ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
@@ -49,6 +49,11 @@ https://streamer1.nexgen.bz/HUSTLER_TV/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=54393232379c4a57898a8d4d12b6695c:2305a3f727638465116400f7c422af87
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560601/index.mpd
+
+#EXTINF:-1 tvg-chno="46.5  tvg-id="barely-legal" tvg-logo="https://epg.iptvx.one/picons/barely-legal.png" group-title="+18 🔞", Barely Legal TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560910/index.mpd
 
 
 #EXTINF:-1 tvg-chno="47" tvg-id="babes-tv" tvg-logo="https://iptvx.one/picons/babes-tv.png" group-title="🔥+18 🔞" , Babes TV
@@ -179,7 +184,7 @@ https://dash3.antik.sk/stream/hisi_erox/playlist_cbcs.mpd
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash3.antik.sk/stream/hisi_reality_tv/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-chno="47.14" tvg-id="" tvg-logo="https://www.antik.sk/assets/img/channels/ac6cb6bd0ed031a2290db5ffedce85e1.svg" group-title="🔥+18 🔞",Pure Babes
+#EXTINF:-1 tvg-chno="47.14" tvg-id="Pure.Babes.hr" tvg-logo="https://www.antik.sk/assets/img/channels/ac6cb6bd0ed031a2290db5ffedce85e1.svg" group-title="🔥+18 🔞",Pure Babes
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -188,7 +193,7 @@ https://dash3.antik.sk/stream/hisi_reality_tv/playlist_cbcs.mpd
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash3.antik.sk/stream/hisi_pure_babes/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-chno="47.15" tvg-id="" tvg-logo="https://www.antik.sk/assets/img/channels/3f45e9a30d1d9247ce02215bd68982aa.svg" group-title="🔥+18 🔞" ,True Amateurs
+#EXTINF:-1 tvg-chno="47.15" tvg-id="True Amateurs" tvg-logo="https://www.antik.sk/assets/img/channels/3f45e9a30d1d9247ce02215bd68982aa.svg" group-title="🔥+18 🔞" ,True Amateurs
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -197,7 +202,7 @@ https://dash3.antik.sk/stream/hisi_pure_babes/playlist_cbcs.mpd
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash4.antik.sk/stream/hisi_true_amateurs/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-chno="47.16" tvg-id="" tvg-logo="https://www.antik.sk/assets/img/channels/8a1ddb6ce48947440bb001d319ec66ab.svg" group-title="🔥+18 🔞" ,Bang U
+#EXTINF:-1 tvg-chno="47.16" tvg-id="Bang.U.hr" tvg-logo="https://www.antik.sk/assets/img/channels/8a1ddb6ce48947440bb001d319ec66ab.svg" group-title="🔥+18 🔞" ,Bang U
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
