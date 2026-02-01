@@ -1,15 +1,14 @@
 #EXTM3U
 
-#EXTM3U url-tvg="https://iptvx.one/EPG_LITE,https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE,https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz"
 
 #EXTINF: -1 tvg-chno="45" tvg-id="kino18plusint-tviksel" tvg-logo="https://iptvx.one/picons/kino18plusint-tviksel.png" group-title="+18 🔞", Кино 18+ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://catcast.tv/
-#https://v2.catcast.tv/content/40381/index.m3u8?token=545a62238c1d990e183c378b937f02a6
 https://autopilot.catcast.tv/content/40381/index.m3u8
 
 #EXTINF:-1 tvg-chno="45.1" tvg-id="Kaloopy.distro" tvg-name="" tvg-logo="https://yt3.ggpht.com/-sdp4r3gfjC8/AAAAAAAAAAI/AAAAAAAAAAA/7JiSbkGO8Ng/s900-c-k-no/photo.jpg" group-title="+18 🔞",Kaloopy
-https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/59d42ea3-549a-4750-b800-675a7dc5eeba/2.m3u8
 
 #EXTINF:-1 tvg-chno="45.2" tvg-id="" tvg-logo="https://www.coolstreaming.us/img/ch/image5883637955.webp" group-title="+18 🔞", MIAMI TV| HD
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
@@ -21,17 +20,17 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
 #EXTINF:-1 tvg-chno="45.3" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/633-320x180-000000.jpg" group-title="+18 🔞",Miamitv Latino
 	
 
-#EXTINF:-1 tvg-chno="45.4" tvg-id="" tvg-logo="" group-title="+18 🔞", Miami Swim Bikini
+#EXTINF:-1 tvg-chno="45.4" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Bikini_Bottom_Mysteries_2018.png/revision/latest?cb=20191013194411" group-title="+18 🔞", Miami Swim Bikini
 https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="45.5" tvg-id="" tvg-logo="" group-title="+18 🔞", Lingerie Club
+#EXTINF:-1 tvg-chno="45.5" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/.sexy.svg/revision/latest?cb=20220803125915" group-title="+18 🔞", Lingerie Club
 https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="45.6" tvg-id="" tvg-logo="" group-title="+18 🔞", L Club
+#EXTINF:-1 tvg-chno="45.6" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/X-Zone.svg/revision/latest/scale-to-width-down/300?cb=20240301143214" group-title="+18 🔞", L Club
 https://rpn3.bozztv.com/dvrfl07/ushba-t2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="45.7" tvg-id="" tvg-logo="" group-title="+18 🔞", Li Club
+#EXTINF:-1 tvg-chno="45.7" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/X-Zone.svg/revision/latest/scale-to-width-down/300?cb=20240301143214" group-title="+18 🔞", Li Club
 https://fl1004.bozztv.com/ushba-m3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="45.8" tvg-id="" tvg-logo="" group-title="+18 🔞", Lin Club
+#EXTINF:-1 tvg-chno="45.8" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/X-Zone.svg/revision/latest/scale-to-width-down/300?cb=20240301143214" group-title="+18 🔞", Lin Club
 https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
 
 
@@ -42,7 +41,7 @@ http://31.148.48.15:80/O-la-la/index.m3u8?token=test
 #EXTINF:-1 tvg-chno="46.2" tvg-id="playboy-tv" group-title="+18 🔞" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Playboy%20TV.png", Playboy TV 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="46.3" tvg-id="Hustler TV" group-title="+18 🔞" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Hustler%20TV%20HD.png",Hustler 
+#EXTINF:-1 tvg-chno="46.3" tvg-id="hustler-hd" group-title="+18 🔞" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Hustler%20TV%20HD.png", Hustler HD 
 https://streamer1.nexgen.bz/HUSTLER_TV/index.m3u8
 
 #EXTINF:-1 tvg-chno="46.4" tvg-id="blue-hustler-24" group-title="+18 🔞" tvg-logo="https://epg.iptvx.one/picons/blue-hustler.png",Blue Hustler 24 
@@ -54,6 +53,7 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560601/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
 https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560910/index.mpd
+
 
 
 #EXTINF:-1 tvg-chno="47" tvg-id="babes-tv" tvg-logo="https://iptvx.one/picons/babes-tv.png" group-title="🔥+18 🔞" , Babes TV
