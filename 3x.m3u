@@ -2,13 +2,15 @@
 
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE,https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz,https://github.com/acidjesuz/EPGTalk/raw/refs/heads/master/Latino_guide.xml.gz"
 
+
 #EXTINF: -1 tvg-chno="45" tvg-id="kino18plusint-tviksel" tvg-logo="https://iptvx.one/picons/kino18plusint-tviksel.png" group-title="+18 🔞", Кино 18+ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://catcast.tv/
 https://autopilot.catcast.tv/content/40381/index.m3u8
 
 #EXTINF:-1 tvg-chno="45.1" tvg-id="Kaloopy.distro" tvg-name="" tvg-logo="https://yt3.ggpht.com/-sdp4r3gfjC8/AAAAAAAAAAI/AAAAAAAAAAA/7JiSbkGO8Ng/s900-c-k-no/photo.jpg" group-title="+18 🔞",Kaloopy
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/59d42ea3-549a-4750-b800-675a7dc5eeba/2.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.vf=jxsHzZbseXW
 
 #EXTINF:-1 tvg-chno="45.2" tvg-id="" tvg-logo="https://www.coolstreaming.us/img/ch/image5883637955.webp" group-title="+18 🔞", MIAMI TV| HD
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
@@ -16,9 +18,13 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
 #EXTINF:-1 tvg-chno="45.2" tvg-id="" tvg-logo="https://www.coolstreaming.us/img/ch/image5883637955.webp" group-title="+18 🔞", Jenny Live HD
 
 #EXTINF:-1 tvg-chno="45.3" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3467-294x165-FFFFFF.jpg" group-title="+18 🔞",Miamitv music
+https://59ec5453559f0.streamlock.net/miamitvmusic/smil:22596/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="45.3" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/633-320x180-000000.jpg" group-title="+18 🔞",Miamitv Latino
-	
+
+#EXTINF:-1 tvg-chno="45.3" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="+18 🔞", Miami DJ
+https://59ec5453559f0.streamlock.net/miamitvDJ/smil:56925/playlist.m3u8	
+
 
 #EXTINF:-1 tvg-chno="45.4" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Bikini_Bottom_Mysteries_2018.png/revision/latest?cb=20191013194411" group-title="+18 🔞", Miami Swim Bikini
 https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
@@ -33,6 +39,9 @@ https://fl1004.bozztv.com/ushba-m3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="45.8" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/X-Zone.svg/revision/latest/scale-to-width-down/300?cb=20240301143214" group-title="+18 🔞", Lin Club
 https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1  tvg-chno="45.9" tvg-id=""  tvg-name="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/spoops.png" group-title="+18 🔞",Spoops tv
+https://fl1003.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-chno="46.1" tvg-id="exxxotica" group-title="+18 🔞" tvg-logo="https://iptvx.one/picons/exxxotica.png", Exxxotica HD
@@ -43,17 +52,9 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="46.3" tvg-id="hustler-hd" group-title="+18 🔞" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Hustler%20TV%20HD.png", Hustler HD 
 
-
 #EXTINF:-1 tvg-chno="46.4" tvg-id="blue-hustler-24" group-title="+18 🔞" tvg-logo="https://epg.iptvx.one/picons/blue-hustler.png",Blue Hustler 24 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=54393232379c4a57898a8d4d12b6695c:2305a3f727638465116400f7c422af87
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560601/index.mpd
 
 #EXTINF:-1 tvg-chno="46.5  tvg-id="barely-legal" tvg-logo="https://epg.iptvx.one/picons/barely-legal.png" group-title="+18 🔞", Barely Legal TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
-https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560910/index.mpd
-
 
 
 #EXTINF:-1 tvg-chno="47" tvg-id="babes-tv" tvg-logo="https://iptvx.one/picons/babes-tv.png" group-title="🔥+18 🔞" , Babes TV
@@ -121,7 +122,7 @@ https://dash2.antik.sk/stream/hisi_dorcel_tv/playlist_cbcs.mpd
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash3.antik.sk/stream/hisi_leo_tv/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-chno="47.7" tvg-id="Leo.TV.Gold.HD.sk" tvg-logo="https://www.antik.sk/assets/img/channels/a2d9eba173d8e33080f7b864407f6a70.svg" group-title="🔥+18 🔞",Leo TV Gold
+#EXTINF:-1 tvg-chno="47.7" tvg-id="Leo.TV.Gold.HD.sk" tvg-logo="https://epg.iptvx.one/picons/leo-tv-xxx.png" group-title="🔥+18 🔞",Leo TV Gold
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -148,7 +149,7 @@ https://dash4.antik.sk/stream/hisi_extasy/playlist_cbcs.mpd
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash3.antik.sk/stream/hisi_passion_xxx/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-chno="47.10" tvg-id="Dusk.TV.sk" tvg-logo="https://www.antik.sk/assets/img/channels/42cdc67fd19238d4fb25de8e998af9ff.svg" group-title="🔥+18 🔞"Dusk! TV
+#EXTINF:-1 tvg-chno="47.10" tvg-id="Dusk.TV.sk" tvg-logo="https://files.cdn.magio.tv/tv_logos/dusk-tv.png" group-title="🔥+18 🔞", Dusk! TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -184,7 +185,7 @@ https://dash3.antik.sk/stream/hisi_erox/playlist_cbcs.mpd
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash3.antik.sk/stream/hisi_reality_tv/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-chno="47.14" tvg-id="Pure.Babes.hr" tvg-logo="https://www.antik.sk/assets/img/channels/ac6cb6bd0ed031a2290db5ffedce85e1.svg" group-title="🔥+18 🔞",Pure Babes
+#EXTINF:-1 tvg-chno="47.14" tvg-id="Pure.Babes.hr" tvg-logo="https://www.a1.hr/rasporedhttps://ssc.a1.hr/ITV/pictures/logos/pure_babes.png" group-title="🔥+18 🔞",Pure Babes
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -193,7 +194,7 @@ https://dash3.antik.sk/stream/hisi_reality_tv/playlist_cbcs.mpd
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash3.antik.sk/stream/hisi_pure_babes/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-chno="47.15" tvg-id="True Amateurs" tvg-logo="https://www.antik.sk/assets/img/channels/3f45e9a30d1d9247ce02215bd68982aa.svg" group-title="🔥+18 🔞" ,True Amateurs
+#EXTINF:-1 tvg-chno="47.15" tvg-id="True.Amateurs.HD.sk" tvg-logo="https://files.cdn.magio.tv/tv_logos/true-amateurs-hd.png" group-title="🔥+18 🔞" ,True Amateurs HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -202,7 +203,7 @@ https://dash3.antik.sk/stream/hisi_pure_babes/playlist_cbcs.mpd
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash4.antik.sk/stream/hisi_true_amateurs/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-chno="47.16" tvg-id="Bang.U.hr" tvg-logo="https://www.antik.sk/assets/img/channels/8a1ddb6ce48947440bb001d319ec66ab.svg" group-title="🔥+18 🔞" ,Bang U
+#EXTINF:-1 tvg-chno="47.16" tvg-id="Bang.U.hr" tvg-logo="https://www.a1.hr/rasporedhttps://ssc.a1.hr/ITV/pictures/logos/bang_u.png" group-title="🔥+18 🔞" , Bang U
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
