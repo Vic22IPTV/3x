@@ -56,6 +56,32 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="46.5  tvg-id="barely-legal" tvg-logo="https://epg.iptvx.one/picons/barely-legal.png" group-title="+18 🔞", Barely Legal TV
 
+#EXTINF:-1 tvg-chno="46.6" tvg-id="brazzers-tv-europe" tvg-logo="https://iptvx.one/picons/brazzers.png" group-title="+18 🔞",Brazzers TV Europe 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=30a943cb79dccfa9c2b579bb8274cf85:4e3643d08495456c936e8b77d620d496
+https://video.beeline.tv/live/d/channel012.isml/manifest-stb.mpd
+
+#EXTINF:-1 tvg-chno="46.7" tvg-id="french-lover" tvg-logo="https://epg.iptvx.one/picons/french-lover.png" group-title="+18 🔞", FrenchLover
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2757ba26637acecfa143237f5a32e2c7:3e69642d9f9e23f0568eeb9d6a1ca48a
+https://video.beeline.tv/live/d/channel252.isml/manifest-stb.mpd
+
+#EXTINF:-1 tvg-chno="46.8" tvg-id="playboy-tv" tvg-logo="https://epg.iptvx.one/picons/playboy-tv.png" group-title="+18 🔞", Playboy TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b4af3cb6ba681d3df359cd404c11776:9b010f4ba2a71a3ef2706aed3549189b
+https://video.beeline.tv/live/d/channel047.isml/manifest-stb.mpd
+
+#EXTINF:-1 tvg-chno="46.9" tvg-id="redlips" tvg-logo="https://epg.iptvx.one/picons/redlips.png" group-title="+18 🔞", Red Lips
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fd536019350b37721cba80ef055972c:07d787ee89a0cad2d21983b4e0c792c7
+https://video.beeline.tv/live/d/channel443.isml/manifest-stb.mpd
+
+
+
 
 #EXTINF:-1 tvg-chno="47" tvg-id="babes-tv" tvg-logo="https://iptvx.one/picons/babes-tv.png" group-title="🔥+18 🔞" , Babes TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
