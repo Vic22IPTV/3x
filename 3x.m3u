@@ -4,15 +4,18 @@
 
 
 #EXTINF: -1 tvg-chno="45" tvg-id="kino18plusint-tviksel" tvg-logo="https://iptvx.one/picons/kino18plusint-tviksel.png" group-title="+18 🔞", Кино 18+ International
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://catcast.tv/
-https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#https://autopilot.catcast.tv/content/40381/index.m3u8
+https://v2.catcast.tv/content/40381/index.m3u8
 
 #EXTINF: -1 tvg-chno="45.1" tvg-id="Barrandov.TV.HD.sk" tvg-logo="https://files.cdn.magio.tv/tv_logos/barrandov-tv-hd.png" group-title="+18 🔞", Barrandov
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash3.antik.sk/stream/hisi_barrandov/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-chno="45.2" tvg-id="ITBC11000047F" tvg-name="Velvet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000047F_20250304T015545SQUARE.png" group-title="+18 🔞" ,Velvet
@@ -20,10 +23,9 @@ https://dash3.antik.sk/stream/hisi_barrandov/playlist_cbcs.mpd
 https://jmp2.uk/stvp-ITBC11000047F
 
 #EXTINF:-1 tvg-chno="45.2" tvg-id="66335489307fa300082bd6e4" tvg-logo="https://images.pluto.tv/channels/66335489307fa300082bd6e4/colorLogoPNG.png" group-title="+18 🔞",Pluto TV Eros
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/66335489307fa300082bd6e4/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=04634f7c-9328-11f1-9424-3833c5d590d3&clientModelNumber=1.0.0&country=IT&deviceDNT=false&deviceId=04634f7c-9328-11f1-9424-3833c5d590d3&deviceLat=43.7000&deviceLon=10.3900&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=IT&serverSideAds=false&sessionID=046bd4e0-9328-11f1-8a13-5634aaf8741e&sid=046bd4e0-9328-11f1-8a13-5634aaf8741e&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijg4MzBhYzQyLWRlZTMtNDBiYy1iMzJiLTMzNjQ2MjczODJiZiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwNDZiZDRlMC05MzI4LTExZjEtOGExMy01NjM0YWFmODc0MWUiLCJjbGllbnRJUCI6IjEzMS4xMTQuMTMwLjIzOSIsImNpdHkiOiJQaXNhIiwicG9zdGFsQ29kZSI6IjU2MTI0IiwiY291bnRyeSI6IklUIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJJVCIsImRldmljZUxhdCI6NDMuNzAwMDAwNzYyOTM5NDUsImRldmljZUxvbiI6MTAuMzkwMDAwMzQzMzIyNzU0LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjEuMCIsImNsaWVudElEIjoiMDQ2MzRmN2MtOTMyOC0xMWYxLTk0MjQtMzgzM2M1ZDU5MGQzIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9Sb21lIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMDQ2MzRmN2MtOTMyOC0xMWYxLTk0MjQtMzgzM2M1ZDU5MGQzIiwiZndWY0lEMkNvcHBhIjoiMDQ2MzRmN2MtOTMyOC0xMWYxLTk0MjQtMzgzM2M1ZDU5MGQzIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIwNDYzNGY3Yy05MzI4LTExZjEtOTQyNC0zODMzYzVkNTkwZDMiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDA5LDEwMDEzLDEwMDE0LDEwMDE1LDEwMDIzLDEwMDAwLDEwMDE2LDEwMDIwLDEwMDIxIn19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzg2MTkzNTUwNzM0LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6SVQ6TURRMk16Um1OMk10T1RNeU9DMHhNV1l4TFRrME1qUXRNemd6TTJNMVpEVTVNR1F6IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc4NjI3OTk1MCwiaWF0IjoxNzg2MTkzNTUwLCJqdGkiOiJjNTI5YWIwNC0yZGU5LTRkMDctOGUwMS05OTI0NmU5MjZlOTUifQ.c6CrMJVAqFdtjU7SsDS1F4UF9jMeBYb2BDQckkEC_H8&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
+https://jmp2.uk/plu-66335489307fa300082bd6e4.m3u8
 
-#EXTINF:-1 tvg-chno="45.2" tvg-id="IT2600003FM" tvg-name="Film d'azione - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600003FM_20260707T052556SQUARE.png" group-title="Film" tvg-chno="4997",Film d'azione - Rakuten TV
-https://jmp2.uk/stvp-IT2600003FM
+
 
 #EXTINF:-1 tvg-chno="45.3" tvg-id="" tvg-logo="https://www.coolstreaming.us/img/ch/image5883637955.webp" group-title="+18 🔞", MIAMI TV| HD
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
@@ -37,20 +39,18 @@ https://59ec5453559f0.streamlock.net/miamitvmusic/smil:22596/playlist.m3u8
 #EXTINF:-1 tvg-chno="45.6" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/633-320x180-000000.jpg" group-title="+18 🔞",Miamitv Latino
 
 #EXTINF:-1 tvg-chno="45.7" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="+18 🔞", Miami DJ
-https://59ec5453559f0.streamlock.net/miamitvDJ/smil:56925/playlist.m3u8	
 
 
 #EXTINF:-1 tvg-chno="45.8" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Bikini_Bottom_Mysteries_2018.png/revision/latest?cb=20191013194411" group-title="+18 🔞", Miami Swim Bikini
 https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="45.9" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/.sexy.svg/revision/latest?cb=20220803125915" group-title="+18 🔞", Lingerie Club
-https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="45.10" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/X-Zone.svg/revision/latest/scale-to-width-down/300?cb=20240301143214" group-title="+18 🔞", L Club
 https://rpn3.bozztv.com/dvrfl07/ushba-t2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="45.11" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/X-Zone.svg/revision/latest/scale-to-width-down/300?cb=20240301143214" group-title="+18 🔞", Li Club
 https://fl1004.bozztv.com/ushba-m3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="45.12" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/X-Zone.svg/revision/latest/scale-to-width-down/300?cb=20240301143214" group-title="+18 🔞", Lin Club
+#EXTINF:-1 tvg-chno="45.12" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/X-Zone.svg/revision/latest/scale-to-width-down/300?cb=20240301143214" group-title="+18 🔞", FII CHANNEL
 https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-chno="45.13" tvg-id=""  tvg-name="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/spoops.png" group-title="+18 🔞",Spoops tv
