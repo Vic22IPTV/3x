@@ -7,7 +7,7 @@
 #EXTVLCOPT:http-referrer=https://catcast.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #https://autopilot.catcast.tv/content/40381/index.m3u8
-https://v2.catcast.tv/content/40381/index.m3u8
+https://v2.catcast.tv/content/40381/index.m3u8?access_token=2f56a9e75d4652f1acf192de7941801e
 
 #EXTINF: -1 tvg-chno="45.1" tvg-id="Barrandov.TV.HD.sk" tvg-logo="https://files.cdn.magio.tv/tv_logos/barrandov-tv-hd.png" group-title="+18 🔞", Barrandov
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -35,6 +35,11 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
 
 #EXTINF:-1 tvg-chno="45.5" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3467-294x165-FFFFFF.jpg" group-title="+18 🔞",Miamitv music
 https://59ec5453559f0.streamlock.net/miamitvmusic/smil:22596/playlist.m3u8
+
+
+
+#EXTINF:-1  tvg-chno="45.5" tvg-id="" tvg-logo=""  group-title="+18 🔞" ,Kaloopy TV 
+https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
 
 #EXTINF:-1 tvg-chno="45.6" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/633-320x180-000000.jpg" group-title="+18 🔞",Miamitv Latino
 
